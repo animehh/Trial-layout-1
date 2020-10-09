@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+
     <!-- Css file -->
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/header.css">
@@ -39,14 +42,20 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed soluta quo sint quam est!</p>
             </div>
             <form action="#" class="bannerForm">
+
+                <!-- НЕДОРАБОТКА INPUT (ПРИ КЛИКЕ НЕ ИСЧЕЗАЕТ PLASEHOLDER И ИКОНКИ)
+                    ИСПРАВИТЬ РАСПОЛОЖЕНИЕ ИКОНОК -->
+                    
                 <div class="group">
-                    <img src="img/men.png" alt="men">
-                    <input class="inp name" type="text" placeholder="Full Name">
+                    <i class="fa fa-user" aria-hidden="true"></i>
+                    <input class="inp email" type="text" placeholder="Full Name">
                 </div>
                 <div class="group">
+                    <i class="fa fa-envelope" aria-hidden="true"></i>
                     <input class="inp email" type="email" placeholder="Email Address">
                 </div>
                 <div class="group">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
                     <input class="inp tel" type="tel" placeholder="Phone Number">
                 </div>
                 <div class="group">
