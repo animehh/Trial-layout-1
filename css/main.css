@@ -1,0 +1,30 @@
+*{
+ margin: 0;
+ padding: 0;   
+}
+
+header{
+    height: 94px;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    text-transform: uppercase;
+    padding-bottom: 12px;
+}
+
+input{
+    outline: none;
+    border: none;
+}
+
+button{
+    outline: none;
+    border: none;
+}

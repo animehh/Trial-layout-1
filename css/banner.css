@@ -1,0 +1,50 @@
+.banner{
+    background-color: #709dca;
+    height: 590px;
+    color:#fff;
+}
+
+.bannerText{
+    text-align: center;
+    padding-top: 110px;
+}
+
+.bannerForm{
+    display: flex;
+    justify-content: center;
+    padding-top: 36px;
+    margin-bottom: 66px;
+}
+
+.group{
+    padding-right: 10px;
+}
+
+.inp{
+    width: 280px;
+    height: 46px;
+    border-radius: 4px;
+}
+
+.formBut{
+    width: 210px;
+    text-transform: uppercase;
+    background-color: #ffbb42;
+    color: #fff;
+    font-size: 14px;
+}
+
+.slider{
+    display: flex;
+    justify-content: center;
+}
+
+.slides{
+    display: flex;
+    justify-content: center;
+    padding-top: 24px ;
+}
+
+.slides input{
+    margin-left: 8px;
+}

@@ -1,0 +1,24 @@
+.logo{
+    margin: 24px 336px 24px 265px;
+}
+
+.menu {
+    display: flex;
+    padding-top: 30px;
+}
+
+.menu a{
+    padding-right: 22px;
+}
+
+.menu a li{
+    list-style: none;
+    padding: 12px 20px;
+    font-size: 13.5px;
+    text-transform: uppercase;
+}
+
+.menu a li:hover{
+    background-color: #ffbb42;
+    border-radius: 4px;
+}
