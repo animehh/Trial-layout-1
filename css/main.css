@@ -17,6 +17,8 @@ a{
 h1{
     text-transform: uppercase;
     padding-bottom: 12px;
+    font-family: MyriadPro-Reg;
+    font-size: 35px;
 }
 
 input{
@@ -27,4 +29,29 @@ input{
 button{
     outline: none;
     border: none;
+}
+
+@font-face{
+    font-family: OpenSans-Reg;
+    src: url('font/OpenSans-Regular.ttf');
+}
+
+@font-face{
+    font-family: OpenSans-Light;
+    src: url('font/OpenSans-Light.ttf');
+}
+
+@font-face{
+    font-family: MyriadPro-Reg;
+    src:url('font/ofont.ru_Myriad Pro.ttf');
+}
+
+@font-face{
+    font-family: Lato-Reg;
+    src: url('font/Lato-Regular.ttf');
+}
+
+@font-face{
+    font-family: Lato-bold;
+    src: url('font/Lato-Bold.ttf');
 }

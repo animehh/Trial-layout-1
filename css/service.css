@@ -1,3 +1,56 @@
 .service{
-    margin-top: 202px;
+    margin: 202px 265px 0 265px;
+    height: 720px;
+}
+
+.serviceText{
+    text-align: center;
+}
+
+.serviceText h2{
+    font-family: MyriadPro-Reg;
+    font-size: 30px;
+    color: #394b50;
+}
+
+.serviceText p{
+    font-family: OpenSans-Reg;
+    font-size: 16px;
+    color: #4e5d61;
+    margin-bottom: 96px;
+}
+
+
+.servicContent{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.serviceInfo{
+    
+    height: 168px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.serviceIMG{
+    width: 82px;
+}
+
+.servicesText{
+    width: 470px;
+}
+
+.servicesText h3{
+    font-family: Lato-bold;
+    font-size: 22px;
+    margin-bottom: 22px;
+    color: #394b50;
+}
+
+.servicesText p{
+    font-family: OpenSans-Reg;
+    font-size: 13px;
+    color: #919191;
 }
