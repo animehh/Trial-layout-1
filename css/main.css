@@ -33,25 +33,25 @@ button{
 
 @font-face{
     font-family: OpenSans-Reg;
-    src: url('font/OpenSans-Regular.ttf');
+    src: url('../font/OpenSans-Regular.ttf');
 }
 
 @font-face{
     font-family: OpenSans-Light;
-    src: url('font/OpenSans-Light.ttf');
+    src: url('../font/OpenSans-Light.ttf');
 }
 
 @font-face{
     font-family: MyriadPro-Reg;
-    src:url('font/ofont.ru_Myriad Pro.ttf');
+    src:url('../font/ofont.ru_Myriad Pro.ttf');
 }
 
 @font-face{
     font-family: Lato-Reg;
-    src: url('font/Lato-Regular.ttf');
+    src: url('../font/Lato-Regular.ttf');
 }
 
 @font-face{
     font-family: Lato-bold;
-    src: url('font/Lato-Bold.ttf');
+    src: url('../font/Lato-Bold.ttf');
 }

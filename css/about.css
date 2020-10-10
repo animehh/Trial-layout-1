@@ -1,0 +1,43 @@
+.aboutUs{
+    height: 624px;
+    display: flex;
+    flex-direction: row;
+}
+
+.aboutIMG{
+    width: 50%;
+    background-image: url('../img/about.png');
+}
+
+.aboutInfo{
+    width: 50%;
+    background-color: #ffc155;
+    color: #fff;
+    padding: 162px 0px 174px 80px;
+}
+
+.aboutInfo h2{
+    font-size: 30px;
+    margin-bottom: 28px;
+    font-family: MyriadPro-Reg;
+    text-transform: uppercase;
+}
+
+.aboutInfo p{
+    width: 506px;
+    font-size: 13px;
+    margin-bottom: 32px;
+    font-family: OpenSans-Reg;
+    line-height: 24px;
+}
+
+.aboutInfo button{
+    width: 144px;
+    height: 46px;
+    border: 1px solid #e7ad48;
+    background-color: #ffc155;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: Lato-Reg;
+}
