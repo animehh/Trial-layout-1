@@ -35,6 +35,7 @@
     width: 144px;
     height: 46px;
     border: 1px solid #e7ad48;
+    border-radius: 4px;
     background-color: #ffc155;
     font-size: 14px;
     text-transform: uppercase;
