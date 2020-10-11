@@ -1,0 +1,65 @@
+.happyClients{
+    height: 908px;
+    background-color: #ffc155;
+}
+
+.happyText{
+    text-align: center;
+    padding: 140px 0 60px 0;
+}
+
+.happyText h2{
+    font-size: 30px;
+    font-family: MyriadPro-Reg;
+    color: #fff;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+.happyText p{
+    color: #fff;
+    font-size: 16px;
+    font-family: OpenSans-Reg;
+}
+
+.happyWorking{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding: 0 265px;
+}
+
+.work{
+    margin: 0 36px 20px 0;
+    width: 568px;
+    height: 242px;
+    background-color: #fff;
+    border-radius: 2px;
+    display: flex;
+}
+
+.work img{
+    border-radius: 50%;
+    align-self: start;
+    margin: 42px 12px 0 30px;
+    width: 120px;
+}
+
+.work article{
+    margin: 42px 40px 28px 0;
+    color: #7b7b7b;
+    font-size: 13px;
+    font-family: OpenSans-Reg;
+}
+
+.work article p{
+    padding-top: 30px;
+    text-transform: uppercase;
+    color: #99a9ae;
+    font-size: 14px;
+    font-family: Lato-Reg;
+}
+
+.work article p span{
+    color: #f6772c;
+}
