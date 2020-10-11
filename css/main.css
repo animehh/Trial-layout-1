@@ -55,3 +55,8 @@ button{
     font-family: Lato-bold;
     src: url('../font/Lato-Bold.ttf');
 }
+
+@font-face{
+    font-family: Lato-Light;
+    src: url('../font/Lato-Light.ttf');
+}

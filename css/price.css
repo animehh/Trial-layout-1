@@ -1,0 +1,103 @@
+.choosYourPricing{
+    background-color: #e7edf3;
+    height: 900px;
+}
+
+.priceText{
+    padding-top: 138px;
+    text-align: center;
+}
+
+.priceText h2{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: MyriadPro-Reg;
+    color: #768287;
+}
+
+.priceText p{
+    font-size: 18px;
+    color: #87989d;
+}
+
+.plans{
+    display: flex;
+    justify-content: center;
+    margin-top: 84px;
+}
+
+.plan{
+    border: 1px solid #ccd5df;
+    width: 388px;
+    height: 440px;
+    background-color: #fff;
+    border-radius:2px;
+    text-align: center;
+}
+
+.plan h3{
+    padding: 56px 0 20px 0;
+    font-size: 25px;
+    font-family: Lato-Light;
+    text-transform: uppercase;
+    color: #818b95;
+}
+
+.plan span{
+    font-size: 45px;
+    color: #ffbb42;
+}
+
+.planP{
+    margin: -20px 0 15px 0;
+}
+
+
+.plan hr{
+    width: 330px;
+    margin: 0 auto;
+    border:1px solid #e2e9f0;
+}
+
+.plan p{
+    padding: 15px 0;
+    color: #b5bbc1;
+    font-size: 13.5px;
+    font-family: Lato-Reg;
+    text-transform: uppercase;
+}
+
+.plan button{
+    margin-top: 20px;
+    width: 132px;
+    height: 42px;
+    background-color: #ffbb42;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 2px;
+}
+
+.plan:hover{
+    margin-top: -30px;
+    padding:60px 4px 0 4px; 
+    background-color: #709dca;
+    border-radius:4px;
+    color: #fff;
+    align-self: center;
+}
+
+.plan:hover h3 {
+    color: #fff;
+}
+.plan:hover span {
+    color: #fff;
+}
+.plan:hover .planP {
+    color: #fff;
+}
+.plan:hover hr{
+    border: 1px solid #8eb8e2;
+}
+.plan:hover p{
+    color: #aed0f2;
+}
