@@ -1,0 +1,59 @@
+.newsLetter{
+    padding: 154px 0 52px 0;
+    text-align: center;
+}
+
+.newsText{
+    padding-bottom: 42px;
+}
+
+.newsText h2{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: MyriadPro-Reg;
+    color: #394b50;
+}
+
+.newsText p{
+    color: #394b50;
+    font-size: 16px;
+    font-family: OpenSans-Light;
+}
+
+.newsInp form input{
+    border: 1px solid #a4a4a4;
+    border-radius: 2px;
+    height: 46px;
+    padding-right: 12px;
+    
+}
+
+.newsInp form i{
+    position: absolute;
+    padding: 16px;
+}
+
+.newsInp form input::placeholder{
+    padding-left: 44px;
+    font-size: 13px;
+    font-family: OpenSans-Reg;
+}
+
+.newsName{
+    width: 308px;
+}
+
+.newsEmail{
+    width: 388px;
+}
+
+.newsInp button{
+    width: 218px;
+    height: 46px;
+    background-color: #ffbb42;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: Lato-Reg;
+    border-radius: 2px;
+}

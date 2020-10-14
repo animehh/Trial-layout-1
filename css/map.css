@@ -1,0 +1,44 @@
+.map{
+    height: 605px;
+    background-image: url(../img/world.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+   
+}
+
+.address{
+    padding-top: 38px;
+    position: relative;
+}
+
+.addressText{
+    position: absolute;
+    text-align: center;
+    padding: 65px 0 0 70px;    
+}
+
+.addressText h2{
+    padding-bottom: 22px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-family: Lato-bold;
+}
+
+.addressText p{
+    color: #a2abae;
+    line-height:24px;
+    font-size: 13px;
+    font-family: OpenSans-Reg;
+}
+
+.addressText p span{
+    color: #d6a246;
+}
+.addressLogo{
+    padding-top: 8px;
+    text-align: center;
+}

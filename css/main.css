@@ -10,6 +10,10 @@ header{
     color: black;
 }
 
+ul{
+    list-style: none;
+}
+
 a{
     text-decoration: none;
 }
@@ -29,6 +33,11 @@ input{
 button{
     outline: none;
     border: none;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
 }
 
 @font-face{
